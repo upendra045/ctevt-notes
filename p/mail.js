@@ -1,9 +1,4 @@
 
-< !--Add additional components as needed -->
-<script src="https://www.gstatic.com/firebasejs/9.6.6/firebase-auth.js"></script>
-<script src="https://www.gstatic.com/firebasejs/9.6.6/firebase-database.js"></script>
-<script src="https://www.gstatic.com/firebasejs/9.6.6/firebase-firestore.js"></script>
-
 const firebaseConfig = {
     apiKey: "AIzaSyAbbyCGDT8s_ETI1TW84CLgMLJJM_5tkvw",
     authDomain: "eng-name-418204.firebaseapp.com",
